@@ -1,5 +1,5 @@
 /* 离线缓存：装到主屏后断网也能用 */
-const CACHE = 'lifetree-v8';
+const CACHE = 'lifetree-v10';
 const ASSETS = ['./', './index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (e) => {
